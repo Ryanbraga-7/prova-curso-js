@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+ul {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.erro {
+  color: red;
+  margin-top: 10px;
+}
